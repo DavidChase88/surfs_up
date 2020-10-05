@@ -6,9 +6,13 @@ The purpose of the analysis is to gather historical weather data to prove the co
 
 ## Key differences between June and December
 
-The June summary table can be seen here: ![surfs_up](/Resources/December_Temps_Table.png)
+The June summary table can be seen here: 
+
+![surfs_up](/Resources/June_Temps_Table.png)
 
 The December summary table can be seen here:
+
+![surfs_up](/Resources/December_Temps_Table.png)
 
 1. June has a mean of 74.94 degrees and a median of 75.00 degrees wheras December has a mean of 71.04 degrees and median of 71.00 degrees. This suggests that there aren't many outliers pulling the mean in any direction meaning the temperature is pretty consistent.
 2. The IQR range for June is 4 degrees (77 degrees to 73 degrees) wheras the IQR range for December is 5 degrees (74 degrees to 69 degrees). Again this suggests that temperatures are pretty consistent even in the winter which bodes well for the business venture.
