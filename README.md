@@ -6,7 +6,7 @@ The purpose of the analysis is to gather historical weather data to prove the co
 
 ## Key differences between June and December
 
-The June summary table can be seen here:
+The June summary table can be seen here: ![surfs_up](/Resources/December_Temps_Table.png)
 
 The December summary table can be seen here:
 
